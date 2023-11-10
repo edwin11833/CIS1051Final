@@ -41,4 +41,4 @@ The above plus google data scraping for the list of restaurants, location, your 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-Need to learn how to data scrap from Google maps, how to make a website using a framework like Flask. Need to learn how to do graphics, probably using pygame. Need to learn how to do a random animation. Need to learn how to store user information for accounts. 
+Need to learn how to data scrape from Google maps, how to make a website using a framework like Flask. Need to learn how to do graphics, probably using pygame. Need to learn how to do a random animation. Need to learn how to store user information for accounts. 
