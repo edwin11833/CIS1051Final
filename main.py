@@ -5,6 +5,8 @@
 import random
 import googlemaps
 
+api_key = ""
+
 user_zipcode = int(input("Please enter your zipcode: "))
 
 
@@ -15,4 +17,5 @@ def rand_choice():
   pick = random.choice(rest_list)
   return pick
 
-if user_zipcode 
+if user_zipcode in googlemaps:
+  googlemaps
