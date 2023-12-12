@@ -8,3 +8,8 @@ Honestly, I was terrified that I was only going to have a program that runs on y
 The documentation for googlemaps is wonderful! Their dev website helped me out tremendously! I noticed there weren't a ton of videos on how to use the googlemaps library.
 For the future, this is NOT my final version of this project, I want to expand on this, possibly add more color to the actual GUI, some pictures and more functions. In the future I plan on making a website out of this initial project. 
 Thank you Professor Rosen for challenging me with this project. 
+
+
+I would also like to add that although I didn't finish with my proposal all the way, which was making a web app out of my program, I WILL make one in the near future, possibly during winter break.
+The end goal for this project is to expand it even more. Anywhere from adding directions to the restaurant, menus, clickable urls, pictures, videos, and maybe even some of the popular reviews.
+I would eventually like to turn this into a web app or a mobile application. Although challenging, I feel great now that I've completed an actual big project like this. Looking forward to expanding this even more!
