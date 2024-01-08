@@ -1,6 +1,49 @@
-# CIS1051Final
-#video link:    https://youtu.be/WZvvxHTApnY
-#You need a google maps api key for the code to work
+#**Random Restaurant Finder**
+
+The Random Restaurant Finder is a Python application designed for those seeking new culinary experiences or struggling to decide where to dine. Utilizing Google's APIs and a straightforward user interface, this program makes discovering restaurants effortless and enjoyable.
+
+##**Key Features:**
+
+*Zip Code Based Search:* Enter your zip code, and the program uses Google Maps Geolocation API to convert it into geographical coordinates, setting the search area.
+
+*Customizable Filters:* Tailor your search with filters like cuisine type and search radius, ensuring the results meet your specific preferences.
+
+*Google Maps and Google Places APIs Integration:* Access a vast and updated database of restaurants, providing accurate and relevant dining options.
+
+*Random Selection Function:* Experience the thrill of discovery with a random restaurant choice from your filtered options.
+
+*Graphical User Interface (GUI):* An intuitive and simple Tkinter-based GUI makes the application user-friendly and accessible to everyone.
+
+*Efficient and Accurate:* The program's efficient zip code conversion and real-time data retrieval from Google's APIs guarantee precise and current results.
+
+##**How It Works:**
+
+Input your zip code.
+
+The program converts it into coordinates.
+
+Apply desired filters.
+
+Google's APIs fetch restaurant data based on these inputs.
+
+A random restaurant is chosen and presented to you.
+
+##**Potential Use Cases:**
+
+Ideal for indecisive individuals or groups.
+Great for discovering new local dining spots.
+Useful for travelers seeking local eats in new areas.
+Encourages users to explore and try new things, even if it's a bit out of their comfort zone.
+Future Enhancements:
+
+Adding review platform integration.
+Including dietary restriction options.
+Incorporating restaurant reservation and ordering features.
+
+
+## CIS1051Final
+##video link:    https://youtu.be/WZvvxHTApnY
+*You need a google maps api key for the code to work*
 
 Some of the challenges that I faced was pretty much everything. Prior to the project, I didnt know how API keys worked, how the GoogleMaps library worked, how tkinter worked, or how to scrape google maps data.
 The hardest part was linking my code and functions to tkinter buttons/dropdown menus/ text boxes. Had to watch several tutorial videos on tkinter to have a simple understanding on how to link my actual program code to the GUI.
